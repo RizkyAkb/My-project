@@ -1,2 +1,2 @@
 # My-project
- Kumpulan projek Rizky Akbar W
+Project Rizky Akbar Wahyu P
